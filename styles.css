@@ -1,0 +1,33 @@
+
+.navbar {
+    background-color: #3b0606; 
+    overflow: hidden;
+    padding: 10px 20px 5px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 2;
+    padding: 0;
+    float: right; 
+}
+
+.navbar li {
+    display: inline-block;
+    margin-left: 30px; 
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.footer {
+    background-color: #e95252;
+    padding: 10px;
+    text-align: center;
+}
+.navbar li a {
+    font-size: 24px;
+}
